@@ -12,7 +12,7 @@
                 <thead>
                     <tr>
                         <th>No</th>
-                        <th>Nama Kelas</th>
+                        <th>Nama Kelass</th>
                         <th>Wali Kelas</th>
                         <th>Total Siswa</th>
                         <th>Action</th>
